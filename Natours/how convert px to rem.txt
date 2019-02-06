@@ -1,0 +1,2 @@
+1. Set font-size in the rooot - <html> selector
+2. Change all px to rem
