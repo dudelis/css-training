@@ -86,7 +86,7 @@
 
     //FUNCTIONALITY - Click events + Show/Hide
     &__checkbox:checked ~ &__background{
-            transform: scale(80);
+            transform: scale(100);
     }
 
     &__checkbox:checked ~ &__nav{
@@ -146,5 +146,4 @@
         transform: rotate(-135deg);
         top: 0;
     }
-
 }
